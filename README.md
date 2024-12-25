@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me sureshchoudhary222810@gmail.com
+- 📫 How to reach me sureshm.connect@gmail.com
 
 <!---
 SURESH-M-CHOUDHARY/SURESH-M-CHOUDHARY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
